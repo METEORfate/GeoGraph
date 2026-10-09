@@ -1,0 +1,7 @@
+node_modules/
+.venv/
+dist/
+data/dem/
+__pycache__/
+*.log
+test-results/
